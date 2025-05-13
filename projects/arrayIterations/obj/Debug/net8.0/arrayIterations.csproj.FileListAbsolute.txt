@@ -1,0 +1,15 @@
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/arrayIterations/bin/Debug/net8.0/arrayIterations
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/arrayIterations/bin/Debug/net8.0/arrayIterations.deps.json
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/arrayIterations/bin/Debug/net8.0/arrayIterations.runtimeconfig.json
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/arrayIterations/bin/Debug/net8.0/arrayIterations.dll
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/arrayIterations/bin/Debug/net8.0/arrayIterations.pdb
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/arrayIterations/obj/Debug/net8.0/arrayIterations.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/arrayIterations/obj/Debug/net8.0/arrayIterations.AssemblyInfoInputs.cache
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/arrayIterations/obj/Debug/net8.0/arrayIterations.AssemblyInfo.cs
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/arrayIterations/obj/Debug/net8.0/arrayIterations.csproj.CoreCompileInputs.cache
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/arrayIterations/obj/Debug/net8.0/arrayIterations.sourcelink.json
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/arrayIterations/obj/Debug/net8.0/arrayIterations.dll
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/arrayIterations/obj/Debug/net8.0/refint/arrayIterations.dll
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/arrayIterations/obj/Debug/net8.0/arrayIterations.pdb
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/arrayIterations/obj/Debug/net8.0/arrayIterations.genruntimeconfig.cache
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/arrayIterations/obj/Debug/net8.0/ref/arrayIterations.dll
