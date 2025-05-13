@@ -1,0 +1,15 @@
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/someMathClass/obj/Debug/net8.0/someMathClass.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/someMathClass/obj/Debug/net8.0/someMathClass.AssemblyInfoInputs.cache
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/someMathClass/obj/Debug/net8.0/someMathClass.AssemblyInfo.cs
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/someMathClass/obj/Debug/net8.0/someMathClass.csproj.CoreCompileInputs.cache
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/someMathClass/obj/Debug/net8.0/someMathClass.sourcelink.json
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/someMathClass/bin/Debug/net8.0/someMathClass
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/someMathClass/bin/Debug/net8.0/someMathClass.deps.json
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/someMathClass/bin/Debug/net8.0/someMathClass.runtimeconfig.json
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/someMathClass/bin/Debug/net8.0/someMathClass.dll
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/someMathClass/bin/Debug/net8.0/someMathClass.pdb
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/someMathClass/obj/Debug/net8.0/someMathClass.dll
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/someMathClass/obj/Debug/net8.0/refint/someMathClass.dll
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/someMathClass/obj/Debug/net8.0/someMathClass.pdb
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/someMathClass/obj/Debug/net8.0/someMathClass.genruntimeconfig.cache
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/someMathClass/obj/Debug/net8.0/ref/someMathClass.dll
