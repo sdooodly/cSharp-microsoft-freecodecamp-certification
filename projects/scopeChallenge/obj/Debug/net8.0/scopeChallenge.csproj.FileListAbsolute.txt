@@ -1,0 +1,15 @@
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/scopeChallenge/obj/Debug/net8.0/scopeChallenge.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/scopeChallenge/obj/Debug/net8.0/scopeChallenge.AssemblyInfoInputs.cache
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/scopeChallenge/obj/Debug/net8.0/scopeChallenge.AssemblyInfo.cs
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/scopeChallenge/obj/Debug/net8.0/scopeChallenge.csproj.CoreCompileInputs.cache
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/scopeChallenge/obj/Debug/net8.0/scopeChallenge.sourcelink.json
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/scopeChallenge/bin/Debug/net8.0/scopeChallenge
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/scopeChallenge/bin/Debug/net8.0/scopeChallenge.deps.json
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/scopeChallenge/bin/Debug/net8.0/scopeChallenge.runtimeconfig.json
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/scopeChallenge/bin/Debug/net8.0/scopeChallenge.dll
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/scopeChallenge/bin/Debug/net8.0/scopeChallenge.pdb
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/scopeChallenge/obj/Debug/net8.0/scopeChallenge.dll
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/scopeChallenge/obj/Debug/net8.0/refint/scopeChallenge.dll
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/scopeChallenge/obj/Debug/net8.0/scopeChallenge.pdb
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/scopeChallenge/obj/Debug/net8.0/scopeChallenge.genruntimeconfig.cache
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/scopeChallenge/obj/Debug/net8.0/ref/scopeChallenge.dll
