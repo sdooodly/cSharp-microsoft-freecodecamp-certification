@@ -1,0 +1,15 @@
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/nestedIteration/bin/Debug/net8.0/nestedIteration
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/nestedIteration/bin/Debug/net8.0/nestedIteration.deps.json
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/nestedIteration/bin/Debug/net8.0/nestedIteration.runtimeconfig.json
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/nestedIteration/bin/Debug/net8.0/nestedIteration.dll
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/nestedIteration/bin/Debug/net8.0/nestedIteration.pdb
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/nestedIteration/obj/Debug/net8.0/nestedIteration.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/nestedIteration/obj/Debug/net8.0/nestedIteration.AssemblyInfoInputs.cache
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/nestedIteration/obj/Debug/net8.0/nestedIteration.AssemblyInfo.cs
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/nestedIteration/obj/Debug/net8.0/nestedIteration.csproj.CoreCompileInputs.cache
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/nestedIteration/obj/Debug/net8.0/nestedIteration.sourcelink.json
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/nestedIteration/obj/Debug/net8.0/nestedIteration.dll
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/nestedIteration/obj/Debug/net8.0/refint/nestedIteration.dll
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/nestedIteration/obj/Debug/net8.0/nestedIteration.pdb
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/nestedIteration/obj/Debug/net8.0/nestedIteration.genruntimeconfig.cache
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/nestedIteration/obj/Debug/net8.0/ref/nestedIteration.dll

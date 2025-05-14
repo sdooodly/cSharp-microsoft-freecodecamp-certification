@@ -1,0 +1,15 @@
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/businessRules/bin/Debug/net8.0/businessRules
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/businessRules/bin/Debug/net8.0/businessRules.deps.json
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/businessRules/bin/Debug/net8.0/businessRules.runtimeconfig.json
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/businessRules/bin/Debug/net8.0/businessRules.dll
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/businessRules/bin/Debug/net8.0/businessRules.pdb
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/businessRules/obj/Debug/net8.0/businessRules.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/businessRules/obj/Debug/net8.0/businessRules.AssemblyInfoInputs.cache
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/businessRules/obj/Debug/net8.0/businessRules.AssemblyInfo.cs
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/businessRules/obj/Debug/net8.0/businessRules.csproj.CoreCompileInputs.cache
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/businessRules/obj/Debug/net8.0/businessRules.sourcelink.json
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/businessRules/obj/Debug/net8.0/businessRules.dll
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/businessRules/obj/Debug/net8.0/refint/businessRules.dll
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/businessRules/obj/Debug/net8.0/businessRules.pdb
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/businessRules/obj/Debug/net8.0/businessRules.genruntimeconfig.cache
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/businessRules/obj/Debug/net8.0/ref/businessRules.dll

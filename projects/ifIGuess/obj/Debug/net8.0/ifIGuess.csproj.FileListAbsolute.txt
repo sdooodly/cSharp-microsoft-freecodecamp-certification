@@ -1,0 +1,15 @@
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/ifIGuess/bin/Debug/net8.0/ifIGuess
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/ifIGuess/bin/Debug/net8.0/ifIGuess.deps.json
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/ifIGuess/bin/Debug/net8.0/ifIGuess.runtimeconfig.json
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/ifIGuess/bin/Debug/net8.0/ifIGuess.dll
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/ifIGuess/bin/Debug/net8.0/ifIGuess.pdb
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/ifIGuess/obj/Debug/net8.0/ifIGuess.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/ifIGuess/obj/Debug/net8.0/ifIGuess.AssemblyInfoInputs.cache
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/ifIGuess/obj/Debug/net8.0/ifIGuess.AssemblyInfo.cs
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/ifIGuess/obj/Debug/net8.0/ifIGuess.csproj.CoreCompileInputs.cache
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/ifIGuess/obj/Debug/net8.0/ifIGuess.sourcelink.json
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/ifIGuess/obj/Debug/net8.0/ifIGuess.dll
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/ifIGuess/obj/Debug/net8.0/refint/ifIGuess.dll
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/ifIGuess/obj/Debug/net8.0/ifIGuess.pdb
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/ifIGuess/obj/Debug/net8.0/ifIGuess.genruntimeconfig.cache
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/ifIGuess/obj/Debug/net8.0/ref/ifIGuess.dll

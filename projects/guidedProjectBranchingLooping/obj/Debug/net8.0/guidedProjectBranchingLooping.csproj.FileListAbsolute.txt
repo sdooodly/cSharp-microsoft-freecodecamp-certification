@@ -1,0 +1,15 @@
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/guidedProjectBranchingLooping/bin/Debug/net8.0/guidedProjectBranchingLooping
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/guidedProjectBranchingLooping/bin/Debug/net8.0/guidedProjectBranchingLooping.deps.json
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/guidedProjectBranchingLooping/bin/Debug/net8.0/guidedProjectBranchingLooping.runtimeconfig.json
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/guidedProjectBranchingLooping/bin/Debug/net8.0/guidedProjectBranchingLooping.dll
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/guidedProjectBranchingLooping/bin/Debug/net8.0/guidedProjectBranchingLooping.pdb
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/guidedProjectBranchingLooping/obj/Debug/net8.0/guidedProjectBranchingLooping.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/guidedProjectBranchingLooping/obj/Debug/net8.0/guidedProjectBranchingLooping.AssemblyInfoInputs.cache
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/guidedProjectBranchingLooping/obj/Debug/net8.0/guidedProjectBranchingLooping.AssemblyInfo.cs
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/guidedProjectBranchingLooping/obj/Debug/net8.0/guidedProjectBranchingLooping.csproj.CoreCompileInputs.cache
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/guidedProjectBranchingLooping/obj/Debug/net8.0/guidedProjectBranchingLooping.sourcelink.json
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/guidedProjectBranchingLooping/obj/Debug/net8.0/guidedProjectBranchingLooping.dll
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/guidedProjectBranchingLooping/obj/Debug/net8.0/refint/guidedProjectBranchingLooping.dll
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/guidedProjectBranchingLooping/obj/Debug/net8.0/guidedProjectBranchingLooping.pdb
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/guidedProjectBranchingLooping/obj/Debug/net8.0/guidedProjectBranchingLooping.genruntimeconfig.cache
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/guidedProjectBranchingLooping/obj/Debug/net8.0/ref/guidedProjectBranchingLooping.dll

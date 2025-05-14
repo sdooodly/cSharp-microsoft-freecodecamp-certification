@@ -1,0 +1,15 @@
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/headOrTails/bin/Debug/net8.0/headOrTails
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/headOrTails/bin/Debug/net8.0/headOrTails.deps.json
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/headOrTails/bin/Debug/net8.0/headOrTails.runtimeconfig.json
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/headOrTails/bin/Debug/net8.0/headOrTails.dll
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/headOrTails/bin/Debug/net8.0/headOrTails.pdb
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/headOrTails/obj/Debug/net8.0/headOrTails.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/headOrTails/obj/Debug/net8.0/headOrTails.AssemblyInfoInputs.cache
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/headOrTails/obj/Debug/net8.0/headOrTails.AssemblyInfo.cs
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/headOrTails/obj/Debug/net8.0/headOrTails.csproj.CoreCompileInputs.cache
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/headOrTails/obj/Debug/net8.0/headOrTails.sourcelink.json
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/headOrTails/obj/Debug/net8.0/headOrTails.dll
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/headOrTails/obj/Debug/net8.0/refint/headOrTails.dll
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/headOrTails/obj/Debug/net8.0/headOrTails.pdb
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/headOrTails/obj/Debug/net8.0/headOrTails.genruntimeconfig.cache
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/headOrTails/obj/Debug/net8.0/ref/headOrTails.dll

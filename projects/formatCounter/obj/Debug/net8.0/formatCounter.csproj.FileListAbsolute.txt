@@ -1,0 +1,15 @@
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/formatCounter/bin/Debug/net8.0/formatCounter
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/formatCounter/bin/Debug/net8.0/formatCounter.deps.json
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/formatCounter/bin/Debug/net8.0/formatCounter.runtimeconfig.json
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/formatCounter/bin/Debug/net8.0/formatCounter.dll
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/formatCounter/bin/Debug/net8.0/formatCounter.pdb
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/formatCounter/obj/Debug/net8.0/formatCounter.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/formatCounter/obj/Debug/net8.0/formatCounter.AssemblyInfoInputs.cache
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/formatCounter/obj/Debug/net8.0/formatCounter.AssemblyInfo.cs
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/formatCounter/obj/Debug/net8.0/formatCounter.csproj.CoreCompileInputs.cache
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/formatCounter/obj/Debug/net8.0/formatCounter.sourcelink.json
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/formatCounter/obj/Debug/net8.0/formatCounter.dll
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/formatCounter/obj/Debug/net8.0/refint/formatCounter.dll
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/formatCounter/obj/Debug/net8.0/formatCounter.pdb
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/formatCounter/obj/Debug/net8.0/formatCounter.genruntimeconfig.cache
+/workspaces/cSharp-microsoft-freecodecamp-certification/projects/formatCounter/obj/Debug/net8.0/ref/formatCounter.dll
